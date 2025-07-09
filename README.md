@@ -31,9 +31,12 @@ An international student, curious coder, and dramatic writer studying at the Uni
 
 ### 📫 Let’s connect!
 - 📧Email: [kaustubh.forge@gmail.com]
-- 🌐 LinkedIn, Portfolio, etc: [Coming soon – under enchantment 🔮]  
+- 🌐 LinkedIn, Portfolio, etc: [Coming soon – under enchantment 🔮]
+
+### 🖊️**One of my most nerdy and silly quotes:**
+>"CS is just a form of spellwork, really — an intricate spell-chain that can be bewitching in its glory and ability to make students cry."😭💻✨ 
 
 ---
 
-> *"CS is just a form of spellwork, really — an intricate spell-chain that can be bewitching in its glory and ability to make students cry."*😭💻✨  
+
 
