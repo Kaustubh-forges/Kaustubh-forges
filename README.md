@@ -6,7 +6,7 @@ An international student, curious coder, and dramatic writer studying at the Uni
 ### 🧠 Currently forging:
 - A password manager with Tkinter 🛡️
 - Python projects from my *regular(not really!)* 100 Days of Code Course 🔥
-- A bunch of out-of-touch theories for the Wizarding World
+- A bunch of out-of-touch theories from fantasy worlds
 
 ### 💬 I speak:
 - Python 🐍  
